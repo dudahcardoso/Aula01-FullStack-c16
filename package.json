@@ -1,0 +1,27 @@
+{
+  "name": "aula01-fullstack-c16",
+  "version": "1.0.0",
+  "description": "Projeto ElGeladon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudahcardoso/Aula01-FullStack-c16.git"
+  },
+  "author": "Maria Eduarda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudahcardoso/Aula01-FullStack-c16/issues"
+  },
+  "homepage": "https://github.com/dudahcardoso/Aula01-FullStack-c16#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
